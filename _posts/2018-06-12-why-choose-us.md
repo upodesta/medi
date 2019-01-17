@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Choose Us ?"
-author: sal
+author: SHA
 categories: [ company-law, income-tax ]
 image: "https://www.bizlaw.ooo/assets/images/27.jpg"
 ---
