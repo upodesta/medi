@@ -2,8 +2,8 @@
 name: "Hassan and Associates"
 description: "Blogging for income tax, company law and business services"
 meta_description: "Blogging for income tax, company law and business services."
-logo: 'assets/images/log.png'
-favicon: 'assets/images/logo.png'
+logo: 'https://www.bizlaw.ooo/assets/images/log.png'
+favicon: 'https://www.bizlaw.ooo/assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-66934702-16'
 disqus: 'hassanandassociates'
