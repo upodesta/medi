@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "-Black Money-for income tax purpose"
+title:  "Black Money for income tax purpose"
 author: SHA
 categories: [ income-tax ]
 image: "https://blog.hassanandassociates.biz/assets/images/22.jpg"
@@ -26,9 +26,9 @@ Black money accumulated over a period of time manifests itself in various forms 
  
 In a lighter vein, a friend once talked of black money in this manner:
 
--How black is black money?
--Surely it is as sweet as honey!
--With it you can buy whatever you fancy,
+- How black is black money?
+- Surely it is as sweet as honey!
+- With it you can buy whatever you fancy,
 
 In reality, black money is a serious matter, not as sweet as made out in the above ditty. Its bitterness is known only when one is caught.
 
