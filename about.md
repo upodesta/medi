@@ -14,9 +14,9 @@ Here are the points where you can get in touch or find us @
 
 - [Official Site](https://hassanandassociates.biz)
 
-- [Blog 'Notes' Site] (https://notes.hassanandassociates.biz)
+- [Blog Notes Site] (https://notes.hassanandassociates.biz)
 
-- [Blog 'Diary' Site] (https://diary.hassanandassociates.biz)
+- [Blog Diary Site] (https://diary.hassanandassociates.biz)
 
 - [Blogger Site](https://blogger.hassanandassociates.biz)
 
