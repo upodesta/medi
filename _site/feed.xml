@@ -3,11 +3,11 @@
   <channel>
     <title></title>
     <description>A Blog site for income tax, company law and business services</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Dec 2019 08:28:29 +0600</pubDate>
-    <lastBuildDate>Sat, 07 Dec 2019 08:28:29 +0600</lastBuildDate>
-    <generator>Jekyll v3.7.4</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Jan 2020 02:50:50 +0600</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2020 02:50:50 +0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>What is Arbitration</title>
@@ -53,11 +53,31 @@ Ironically enough, the rationale for having an arbitration clause in the first p
 
 </description>
         <pubDate>Thu, 19 Sep 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/09/19/what-is-arbitration.html</guid>
         
         
         <category>company-law</category>
+        
+        <category>income-tax</category>
+        
+      </item>
+    
+      <item>
+        <title>Black Money for income tax purpose</title>
+        <description>&lt;p&gt;All payments made out of unaccounted funds, which have not borne the due tax liability, are black money transactions. Payments for services of plumbers, electricians, mechanics, housemaids, etc. are also made in cash. School and clollege fees for children are invariably paid in cash. Large payments to hotels, restaurants and travel agents may also be made in cash. Payments made in cashcould be out accounted or unaccounted funnds. We often hear a remark in the context of immovable property transactions, i.e. when we want to buy or sell a property, it ususally goes thus - How much by cheque or in Number 1 and how much by cash or in Number 2 ?&lt;/p&gt;
+
+&lt;p&gt;Invariably, when the transaction for sale of property is between two private parties i.e. in the secondary market, the sale consideration may partly be paid be cheque and partly by cash. This is the accepted norm and it is extremely difficult to carry out a transaction without being a party to this practice. The amount which is paid in cash, or the so called Number 2 componenet or the -on money-, remains unaccounted both for stamp duty purposes as well as income tax purposes. For the buyer, the source of the amount paid in cash can not be questioned by anybody as it does not on record. Since the sale deed is executed only on the amount paid by cheque, the stamp duty paid is less than what would be payable on the actual consideration. The seller also shows only the recorded price for capital gain purposes and thus evades income tax. In this manner, huge amounts of unaccounted cash or Number 2 money or black money hands in real estate transactions and get invested in property.&lt;/p&gt;
+
+&lt;p&gt;For income tax purposes, all such income which has been concealed and on which tax has been evaded, irrespective of the source of such income or the motive for earning such income, acquires the character of black money. Thus all income which is not reported to the tax authorities becomes black income even though there may have been no illegality involved in earning such income.&lt;/p&gt;
+
+&lt;p&gt;A common perception that prevails is that only transactions in cash are black money transactions whereas all transactions/payments/receipts by cheque can not be treated as black money transactiona. This is a misconception and needs to be dispelled. All transactions whether carried out in cash or through banking channels could be black money transactions if the amount involved have not borne the due tax liability. The reverse is also true. Transactions made out of funds duly disclosed for income tax purposes, even if carried out in cash not more than taka 50,000/- limit, can not be treated as black money transaction.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 24 Aug 2019 00:00:00 +0600</pubDate>
+        <link>http://localhost:4000/income-tax/2019/08/24/black-money-for-income-tax-purpose-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/income-tax/2019/08/24/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
+        
         
         <category>income-tax</category>
         
@@ -151,11 +171,72 @@ support the development initiatives of the government. On the other hand, NBR to
 Since the issuance of CSR directive by BB and SRO on after tax incentive from NBR, the involvement of banks in CSR activities has augmented in many folded aspects.   Banks’   rapidly   increasing   participation   in   CSR   activities   with incorporation   of   socially   and   environmentally   accountable   organizational objectives,   strategies   and  operations   that  are  swiftly   turning   into   global standards   in   “socially   responsible   competition”   towards   rearing   inclusive economic and social growth and facilitate the nation to go forward with desired growth and efficient allocation of resources. Surely the collaborative effort by the concerned government bodies will further increase the CSR activities by banks which will support sustainable development drive of the Bangladesh.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Aug 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/08/22/policy-support-to-corporate-social-responsibilty.html</guid>
         
         
         <category>company-law</category>
+        
+        <category>income-tax</category>
+        
+      </item>
+    
+      <item>
+        <title>Key information on Income Tax</title>
+        <description>&lt;p&gt;Among direct taxes, income tax is the main source of revenue. It is a progressive tax system. Income tax is imposed on the basis of ability to pay. “The more a taxpayer earns the more he should pay’’- is the basic principle of charging income tax. It aims at ensuring equity and social justice. In Bangladesh income tax is being  administered  under  the  tax  legislations  named  as  “THE  INCOME  TAX  ORDINANCE,  1984 (XXXVI OF 1984) and INCOME TAX RULES, 1984.”&lt;/p&gt;
+
+&lt;p&gt;Who should submit Income Tax Return?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If total income of any individual other than female taxpayers, senior male  taxpayers of 65 years and above, retarded taxpayers and war wounded gazetted freedom fighter during the income year exceeds Tk 2,50,000/-.&lt;/li&gt;
+  &lt;li&gt;If total income of any female taxpayer, senior male taxpayer of 65 years and above during the income year exceeds Tk 3,00,000/-.&lt;/li&gt;
+  &lt;li&gt;If total income of any retarded taxpayer during the income year exceeds TK. 3,75,000.&lt;/li&gt;
+  &lt;li&gt;If total income of any gazetted war-wounded freedom fighter taxpayer during the income year exceeds Tk. 4,25.000/-.&lt;/li&gt;
+  &lt;li&gt;If any person was assessed for tax during any of the 3 years immediately preceding the income year.&lt;/li&gt;
+  &lt;li&gt;A person who lives in any city corporation/paurashava/divisional HQ/district HQ and owns motor car/owns membership of a club registered under VAT Law.&lt;/li&gt;
+  &lt;li&gt;If any person runs a business or profession having trade license and operates a bank account.&lt;/li&gt;
+  &lt;li&gt;Any professional registered as a doctor, lawyer, income tax practitioner, Chartered Accountant, Cost &amp;amp; Management Accountant, Engineer, Architect and Surveyor etc.&lt;/li&gt;
+  &lt;li&gt;Member of a Chamber of Commerce and Industries or a trade Association.&lt;/li&gt;
+  &lt;li&gt;Any person who participates in a tender.&lt;/li&gt;
+  &lt;li&gt;Candidate for Paurashava, City Corporation, Upazilla or Parliament elections.&lt;/li&gt;
+  &lt;li&gt;Any company registered under the  Company Act, 1913 or 1994.&lt;/li&gt;
+  &lt;li&gt;Any Non-government organization (NGO) registered with NGO Affairs Bureau.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Consequences of Non-Submission of Return and Return of withholding tax:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;imposition of  penalty amounting to  10% of tax on last assessed income subject to a minimum of Tk. 1,000/-&lt;/li&gt;
+  &lt;li&gt;in case of an individual assessee whose income was not assessed previously Tk. 5,000/-.&lt;/li&gt;
+  &lt;li&gt;in case of an individual assessee whose income was assessed previously, fifty per cent (50%) of the tax payable on the last assessed income or Tk. 1,000/-, whichever is higher.&lt;/li&gt;
+  &lt;li&gt;In case of a continuing default by any type of assessee, a further penalty of Tk. 50/- for every day of delay.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assessment Procedures:&lt;/p&gt;
+
+&lt;p&gt;For a return submitted under normal scheme, assessment is made after giving an opportunity of hearing.
+For  returns  submitted  under  Universal  Self  Assessment  Scheme,  the  acknowledgement  slip  is considered to be an assessment order of the Deputy Commissioner of Taxes. Universal Self Assessment may be subject to “process and audit”.&lt;/p&gt;
+
+&lt;p&gt;Provided that a return of income filed under universal self assessment scheme, shall not be selected for audit where such return shows at least twenty per cent higher income than the income assessed or shown in the return of the immediately preceding assessment year and such return-
+(a)  is accompanied by corroborative evidence in support of income exempted from tax; (b) does not show receipt of gift during the year;
+(b)  does not show any income chargeable to tax at a rate reduced under section 44; or
+(c)  does not show or result any refund.&lt;/p&gt;
+
+&lt;p&gt;Tax Recovery System :&lt;/p&gt;
+
+&lt;p&gt;In case of non-payment of income tax demand, the following measures can be taken against a taxpayer for realization of tax:-&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Imposition of penalty.&lt;/li&gt;
+  &lt;li&gt;Attachment of bank accounts, salary or any other payment.&lt;/li&gt;
+  &lt;li&gt;Filing of Certificate case to the Special Magistrate/Collector of District.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 28 Jul 2019 00:00:00 +0600</pubDate>
+        <link>http://localhost:4000/income-tax/2019/07/28/key-information-on-income-tax.html</link>
+        <guid isPermaLink="true">http://localhost:4000/income-tax/2019/07/28/key-information-on-income-tax.html</guid>
+        
         
         <category>income-tax</category>
         
@@ -242,8 +323,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Where the rights of a proprietor of a registered trademark has infringed, s/he can initiate civil proceeding or criminal proceeding for remedy. Any suit regarding the infringement of trademark, or to establish the right or any ratified right respecting trademark shall be instituted in the Court of District Judge within whose jurisdiction the infringement occurred. A criminal proceeding has to be instituted in the Court of Metropolitan Magistrate or any other 1st class Judicial Magistrate. Remedy in a suit for infringement may be availed in the form of injunction, damages, an accounts of profit, destruction or erasure of falsifying trademark, delivery up the goods marked with false trademark.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/trademark-registration-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -299,8 +380,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/required-documents-to-open-foreign-company-in-Bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -435,8 +516,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;p&gt;Once work permit is issued by BIDA, a copy of the work permit would then sent letter to Ministry of Home Affairs for security clearance by BIDA. After some scrutiny, security clearance will be issued.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-of-issuing-work-permit-in-bangladesh.html</guid>
         
         
         <category>company-law</category>
@@ -510,31 +591,11 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
-        <guid isPermaLink="true">/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
+        <link>http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/2019/06/13/process-for-registration-with-bangladesh-investment-development-authority.html</guid>
         
         
         <category>company-law</category>
-        
-      </item>
-    
-      <item>
-        <title>Black Money for income tax purpose</title>
-        <description>&lt;p&gt;All payments made out of unaccounted funds, which have not borne the due tax liability, are black money transactions. Payments for services of plumbers, electricians, mechanics, housemaids, etc. are also made in cash. School and clollege fees for children are invariably paid in cash. Large payments to hotels, restaurants and travel agents may also be made in cash. Payments made in cashcould be out accounted or unaccounted funnds. We often hear a remark in the context of immovable property transactions, i.e. when we want to buy or sell a property, it ususally goes thus - How much by cheque or in Number 1 and how much by cash or in Number 2 ?&lt;/p&gt;
-
-&lt;p&gt;Invariably, when the transaction for sale of property is between two private parties i.e. in the secondary market, the sale consideration may partly be paid be cheque and partly by cash. This is the accepted norm and it is extremely difficult to carry out a transaction without being a party to this practice. The amount which is paid in cash, or the so called Number 2 componenet or the -on money-, remains unaccounted both for stamp duty purposes as well as income tax purposes. For the buyer, the source of the amount paid in cash can not be questioned by anybody as it does not on record. Since the sale deed is executed only on the amount paid by cheque, the stamp duty paid is less than what would be payable on the actual consideration. The seller also shows only the recorded price for capital gain purposes and thus evades income tax. In this manner, huge amounts of unaccounted cash or Number 2 money or black money hands in real estate transactions and get invested in property.&lt;/p&gt;
-
-&lt;p&gt;For income tax purposes, all such income which has been concealed and on which tax has been evaded, irrespective of the source of such income or the motive for earning such income, acquires the character of black money. Thus all income which is not reported to the tax authorities becomes black income even though there may have been no illegality involved in earning such income.&lt;/p&gt;
-
-&lt;p&gt;A common perception that prevails is that only transactions in cash are black money transactions whereas all transactions/payments/receipts by cheque can not be treated as black money transactiona. This is a misconception and needs to be dispelled. All transactions whether carried out in cash or through banking channels could be black money transactions if the amount involved have not borne the due tax liability. The reverse is also true. Transactions made out of funds duly disclosed for income tax purposes, even if carried out in cash not more than taka 50,000/- limit, can not be treated as black money transaction.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</link>
-        <guid isPermaLink="true">/income-tax/2019/06/13/black-money-for-income-tax-purpose-in-bangladesh.html</guid>
-        
-        
-        <category>income-tax</category>
         
       </item>
     
@@ -619,8 +680,8 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
 
 </description>
         <pubDate>Thu, 13 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/13/bangladesh-tax-policy-and-administration.html</guid>
         
         
         <category>company-law</category>
@@ -630,54 +691,26 @@ Since the issuance of CSR directive by BB and SRO on after tax incentive from NB
       </item>
     
       <item>
-        <title>Working with us what you will get ?</title>
-        <description>&lt;p&gt;With our 28 years of experience, we take care almost every possible steps to solve problems on case to case basis promptly. It is appreciated everywhere that there is no failure case in our record history. Each of your issue is a partnership. We start with a conversation about your subject matter, then develop a plan with you. &lt;br /&gt; Working with us following benefits are avialable at your end :&lt;/p&gt;
+        <title>Money Laundering for income tax purposes</title>
+        <description>&lt;p&gt;As the name itself suggests, laundering here refers to converting the dirty /tainted /crime money into clean /untainted / legally earned legitimate money. Money laundering involves certain processes undertaken to conceal the identity or source of illegally gained money.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Free Advice : We provide free advice on request.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hassele-Free : We provide quick and accurate assessement and hassle-free services.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Storage Facility : You may store your service related documents online securely and access them anytime from anywhere.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Data Encryption : We maintain bank-level data encryption and protection.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Documentation Support : We provide reliable online and manual documetaion support.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Download : Unlimited data revisions, PDF print and downloads.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Professional Team : We have a good professional team to achieve our professional goal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;More Features : To know about other avialable features, Please &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA/viewform&quot;&gt;Contact us&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The goal of a large number of criminal acts is to generate profits for the individual or a group that carries out the acts. Money laundering is the processing of these criminal proceeds to disguise their illegal origin. Illegal activities, like drug trafficking, smuggling, sale of illegal arms, prostitution, embezzlement, bribery, cyber crimes, insider trading, etc., can produce large profits and create the need to legitimize the ill-gotten gains through money laundering.&lt;/p&gt;
+
+&lt;p&gt;This is done by disguising the source, changing the form, and moving the funds to a place where they are less likely to attract attention. It must be clearly understood that tax evasion is not the prime objective of money laundering. Money laundering is mainly done to disguise the origin of money obtained through illegal activities so as to make it appear as if it was obtained from a legal source.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, in the USA someone possessing a huge amount of cash tried to explain it as having been derived from operating the laundry machines or launderettes installed in buildings. Persons operating these machines have to insert coins to make the machine work. Thus, a large number of coins accumulate in these machines. It is said that the term money laundering was accordingly coined. Convenience stores making retail sales also collect cash; these stores are often used to camouflage the source of inconvenient money.&lt;/p&gt;
+
+&lt;p&gt;Money laundering is a phenomenon prevalent in almost all countries of the world. In 1996, the International Monetary Fund (IMF) estimated that two to five percent of the global economy involved laundered money. Money laundering impacts a nations economy adversely as funds move rapidly across borders to escape the audit trail. Different kinds of methods and legislations have been adopted to deter, prevent and apprehend money launderers. Very severe punishments have been provided for those found to be indulging in this criminal activity.&lt;/p&gt;
+
+&lt;p&gt;The Money Laundering Prevention Act, 2012 also casts an obligation on banking companies, financial institutions and others to both verify and maintain a record of the identity of their clients. Measures have already been undertaken in this direction by way of adoption of the KYC norms by the concerned institutions. Under these norms, any person opening a bank account, or a demat account, subscribing to mutual funds, or taking a mobile phone connection has to establish his identity to the satisfaction of the concerned authorities. He has to furnish proof of identity with a photograph and also proof of residence. Even courier service providers ask for proof of identity before accepting or handing over a parcel. There are strict instructions from the Bangladesh Bank and other regulatory authorities to their subordinate functionaries to enforce the KYC norms strictly. The banks, financial institutions and others have to ensure that the customer is, in fact, the person who he or she claims to be. This is to prevent fraudsters using the name, address and forged signatures of others for doing fraudulent or benami transactions.&lt;/p&gt;
+
+&lt;p&gt;Since income tax evasion is bound to be an integral part of the act of money laundering, such cases may also be referred to the income tax authorities for investigation from the tax evasion angle.&lt;/p&gt;
+
+&lt;p&gt;Money laundering is a grave issue as it is the byproduct of illegal activities and financial frauds, and further abets continuance of such activities and frauds. It needs to be checked and dealt with severely.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/12/working-with-us-what-you-will-get.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/12/working-with-us-what-you-will-get.html</guid>
-        
-        
-        <category>company-law</category>
-        
-        <category>income-tax</category>
-        
-      </item>
-    
-      <item>
-        <title>Why Choose Us ?</title>
-        <description>&lt;p&gt;If you’re looking for a firm that will focus on your individual needs and always treat you like a client who matters, look no further. Having 28 years experience our firm is enough to offer a full range of professional and customized services to give you the individual attention that you deserve. We will throughly and conscientiously study your personal situation and tailor our advice to your specific needs. Although we’re a team  for providing our services in Dhaka, Bangladesh but we serve clients across the country and all over the world. We take pride in our commitment to the highest standards of integrity and honesty. We’ll never make false assurances or promises. Your trust is far too important to us.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 12 Jun 2019 00:00:00 +0600</pubDate>
-        <link>/company-law/income-tax/2019/06/12/why-choose-us.html</link>
-        <guid isPermaLink="true">/company-law/income-tax/2019/06/12/why-choose-us.html</guid>
+        <link>http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/company-law/income-tax/2019/06/12/money-laundering-for-income-tax-purposes.html</guid>
         
         
         <category>company-law</category>
